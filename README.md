@@ -21,3 +21,21 @@ Make sure you have Python installed on your system. You can check your version b
 
 ```bash
 python --version
+Installation & Running
+Clone the repository:
+
+Bash
+git clone [https://github.com/khansaniya06067-sys/Student-management.git](https://github.com/khansaniya06067-sys/Student-management.git)
+Navigate to the project directory:
+
+Bash
+cd Student-management
+Run the Python script:
+
+Bash
+python student_management.py
+Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+License
+This project is open source and available under the MIT License.
